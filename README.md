@@ -10,8 +10,10 @@ A Web scraper made with python and selenium to fetch the technical analysis summ
 I don't recommend to use a refresh time less than 2 seconds because the tool needs 1 second to load the page otherwise it will throw an error!
 
 **Screenshots**
+
 ![1](https://i.imgur.com/m1LdPqd.png)
 
 **Output**
+
 ![2](https://i.imgur.com/Tg3fL0v.png)
 ![3](https://i.imgur.com/icKiqEk.png)
